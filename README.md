@@ -1,6 +1,6 @@
 # EXAMEN REDES
 Examen de la alumna Nerea Quintanilla Blanco con NP 154409, de la asignatura de Redes.  
-* Link: 
+* Link: https://github.com/nquinbla/Redes_Examen1_Nerea.git
 
 ## [ 📍 ] ÍNDICE
 
